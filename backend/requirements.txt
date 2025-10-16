@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+requests
+numpy
+pandas
+psutil
+gunicorn
+pytest
+pytest-asyncio
+httpx
