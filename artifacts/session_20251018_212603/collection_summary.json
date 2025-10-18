@@ -1,0 +1,20 @@
+{
+  "collection_time": "20251018_212603",
+  "session_directory": "artifacts/session_20251018_212603",
+  "collected_artifacts": [
+    "system_info.json",
+    "diagnostic_logs.json",
+    "tracemalloc_stats.txt",
+    "memory_monitoring.json",
+    "screenshot_commands.json",
+    "performance_test_1000_requests.json",
+    "performance_test_1000_requests_optimized.json"
+  ],
+  "next_steps": [
+    "Take screenshots as specified in screenshot_commands.json",
+    "Take photo of physical setup with date note",
+    "Run GDB analysis and take screenshot",
+    "Analyze performance test results",
+    "Compare before/after performance metrics"
+  ]
+}

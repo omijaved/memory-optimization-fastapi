@@ -1,0 +1,362 @@
+[
+  {
+    "timestamp": "2025-10-18T21:39:46.481205",
+    "memory_rss": 21.78515625,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      5,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:47.482528",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      5,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:48.483996",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      5,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:49.485498",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      5,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:50.486988",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      5,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:51.488479",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      6,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:52.489984",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      7,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:53.491561",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      8,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:54.493062",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      9,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:55.494577",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      10,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:56.496031",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      11,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:57.497634",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      12,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:58.499344",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      13,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:39:59.500806",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      14,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:00.502587",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      15,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:01.504086",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      16,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:02.505509",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      17,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:03.506954",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      18,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:04.508498",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      19,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:05.510020",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      20,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:06.512236",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      21,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:07.513715",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      22,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:08.515203",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      23,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:09.516785",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      24,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:10.518368",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      25,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:11.519851",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      26,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:12.521321",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      27,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:13.522786",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      28,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:14.524305",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      29,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-10-18T21:40:15.524878",
+    "memory_rss": 22.05859375,
+    "memory_vms": 40.61328125,
+    "cpu_percent": 0.0,
+    "thread_count": 1,
+    "gc_count": [
+      30,
+      9,
+      4
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "htop_screenshot",
+    "description": "Screenshot of htop showing memory and CPU usage",
+    "command": "htop",
+    "instructions": "Take screenshot while htop is running, showing memory growth and CPU usage"
+  },
+  {
+    "name": "gdb_analysis",
+    "description": "GDB analysis showing thread information",
+    "command": "gdb -p $(pgrep -f uvicorn)",
+    "gdb_commands": [
+      "info threads",
+      "thread apply all bt"
+    ],
+    "instructions": "Run GDB, execute 'info threads' and take screenshot"
+  },
+  {
+    "name": "system_info",
+    "description": "System information including hostname and date",
+    "command": "uname -a && date",
+    "instructions": "Run in terminal and include screenshot showing hostname and current date"
+  }
+]

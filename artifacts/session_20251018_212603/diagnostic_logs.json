@@ -1,0 +1,22 @@
+{
+  "gc_count": [
+    111,
+    5,
+    4
+  ],
+  "switch_interval": 0.005,
+  "active_threads": 1,
+  "cpu_count": 8,
+  "python_path": [
+    "/home/ubaid/Pycharm-projects/memory_optimization/test",
+    "/usr/local/lib/python312.zip",
+    "/usr/local/lib/python3.12",
+    "/usr/local/lib/python3.12/lib-dynload",
+    "/home/ubaid/Pycharm-projects/memory_optimization/.venv/lib/python3.12/site-packages"
+  ],
+  "tracemalloc_stats": {
+    "current": 0.0005950927734375,
+    "peak": 0.000732421875
+  },
+  "timestamp": "2025-10-18T21:26:04.060286"
+}

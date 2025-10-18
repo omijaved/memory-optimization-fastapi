@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-10-18T21:26:03.057081",
+  "hostname": "ubaid-ThinkPad-T490",
+  "platform": "Linux",
+  "architecture": "x86_64",
+  "python_version": "3.12.2 (main, Aug 27 2025, 12:21:17) [GCC 9.4.0]",
+  "cpu_count": 8,
+  "memory_total": 14.811954498291016,
+  "disk_usage": {
+    "total": 467.8886032104492,
+    "used": 73.4774284362793,
+    "free": 370.5736770629883
+  }
+}

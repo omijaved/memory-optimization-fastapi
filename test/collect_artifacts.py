@@ -9,7 +9,7 @@ This script collects all required artifacts for demonstration:
 4. GDB analysis
 5. Physical setup documentation
 """
-
+import gc
 import os
 import sys
 import time
